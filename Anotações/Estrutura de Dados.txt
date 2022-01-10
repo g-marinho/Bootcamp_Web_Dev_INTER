@@ -1,0 +1,56 @@
+O QUE É ESTRUTURA DE DADOS?
+É a forma como os dados são organizados na memória de um dispositivo(pc, smartphone etc) e que sejam utilizados corretamente
+
+Existem estruturas altamente específicas para a execução de uma determinada tarefa, algumas funcionam melhor com grandes
+quantidades de dados, enquanto outras funcionam melhor com pequenas quantidades de dados.
+
+OPERAÇÕES BÁSICAS EM ESTRUTURA DE DADOS
+- Inserir, excluir e localizar dados
+- Percorrer todos os itens da estrutura para visualização
+- Classificar os dados
+
+PRINCIPAIS ESTRUTURAS DE DADOS:
+- Vetores e Matrizes
+- Registro
+- Listas
+- Pilha
+- Fila
+- Arvore
+- Tabela Hash
+- Grafos
+
+VETORES E MATRIZES:
+- Ajudam a construir o algoritmo, quando estamos lidando com múltiplas variáveis do mesmo tipo (int, float, string etc)
+então ao invés de de declararmos variavel por variável, criamos uma variável estruturada em vetor ou matriz e inserimos os dados lá
+
+REGISTROS:
+- Enquantos os vetores e matrizes permitem trabalhar com apenas um tipo de dado, os registros nos permitem trabalhar com dados diferentes.
+
+LISTAS:
+- Estruturas do tipo lista armazenam dados de um determinado tipo em uma ordem específica
+- Listas possuem um tamanho ajustável
+- Listas ligadas: Unidirecional, está ligada cada nó da lista está ligada somente ao proximo nó
+- Listas duplamente ligadas: Bidirecional, cada nó da lista está ligada tanto ao nó seguinte quanto ao anterior
+
+PILHAS:
+- É uma estrutura que serve como uma coleção de elementos e permite acesso a somente a um item armazenado por vez
+-Tipos de pilha: LIFO e FIFO
+- LIFO: O último elemento que entra na pilha é o primeiro a ser acessado
+- FIFO: O primeiro elemento que entra na pilha é o primeiro a ser acessado
+
+FILAS:
+- Segue a regra de acesso igual ao da pilha do tipo FIFO, o elemento que entrou primeiro é o primeiro a ser acessado
+
+ÁRVORE:
+- É uma estrutura com forte característica hierárquica, onde o elemento raiz(é contraditório mesmo) fica no topo e os elementos subordinados (folhas) ficam abaixo
+- Facilita buscar elementos dentro dela
+- A raiz normalmente é elemento que tem valor médio entre os todos os elementos. exemplo: 5-10-15 o elemento raiz no caso descrito é o numero 10
+
+TABELA HASH:
+- Conhecida como tabela de dispersão ou espalhamento que faz associação de chaves de pesquisa a valores
+- Valor é a posição(índice) onde o elemento se encontra
+- Chave é parte da informação que compõe o elemento a ser acessado
+
+GRAFOS:
+- São estruturas que permitem programar a relação entre objetos
+- Parece ser a estrutura mais flexivel para manipular elementos

@@ -1,0 +1,25 @@
+CONCEITOS BÁSICOS:
+- É um framework para gerenciamento ágil, existem outros(kanban e etc)
+- A aplicação é desenvolvida por partes e cada parte é  executada em um ciclo (como uma iteração)
+- Escopo se adapta ao longo do projeto
+- O projeto é controlado por funcionalidade entregue
+- O cliente consegue ver o projeto funcionando desde o início praticamente
+- Facilmente mutável, mais fácil e rápido de detectar falhas de projeto
+- O projeto evolui baseado no feedback do cliente
+- Sprints de 2 a 4 semanas para cada funcionalidade
+
+CARACTERÍSTICAS DO TIME SCRUM:
+- 3 a 9 pessoas
+- Equipes capazes de se auto-organizarem
+- As tarefas são do time, a responsabilidade é compartilhada
+- Compromisso com o resultado
+- Papeis e responsabilidades: PO, Scrum Master (SM) e Time de Desenvolvimente(DEV)
+		PO: Representante da área de negocios, define as features da aplicação
+		SM: Garante o uso correto do Scrum, auxilia o PO no planejamento, auxilia a 			    equipe a remover impedimentos
+		DEV: Operacionaliza a aplicação
+
+CERIMÓNIAS SCRUM:
+	SPRINT: Duração máx de 30 dias. Divide-se Planejamento, Reunioes diárias, revisão do 		sprint e retrospectiva da sprint.		
+		
+
+
