@@ -1,0 +1,42 @@
+.navbar {
+background-color:#000000;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+  }
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #FFFF00;
+  }
+
+.quem-somos {
+    background-color: #FFFF00;
+    color: black;
+}
+
+.margin{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.turma-horarios{
+    background-color: #1C1C1C;
+    color: #FFFF00;
+    
+}
+
+.equipes {
+    background-color: #000000;
+    color:#FFFF00;
+}
+
+.footer-custom{
+    padding-top: 15px;
+    
+}
+
+.h4-turmas {
+    color: white;
+}
