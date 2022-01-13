@@ -1,0 +1,17 @@
+body {
+    background-color: burlywood;
+    color: brown;
+    text-align: center;
+}
+
+#contador {
+    text-align: center;
+}
+
+.btn {
+    border: 1px solid crimson;
+    padding: 8px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-weight: bold;
+}
